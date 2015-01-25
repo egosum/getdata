@@ -31,3 +31,7 @@
 `mergeFiles` is a function which merges the `train` and `test` data sets for a given type.
 
 `file` is an internal function of `mergeFiles` which builds the path to the file which contains the data.
+
+## Script output
+
+This script creates a tidy data set in the file `average_data.txt` in the R working directory
